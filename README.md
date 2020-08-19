@@ -14,8 +14,8 @@
   <img src="https://github.com/juliop3p/guess-a-number/blob/master/oponentsChoice.jpeg" width="350px" />
 </p>
 
-### Game Over Screen
+# Game Over Screen
 <p align="center">
-  <img src="https://github.com/juliop3p/guess-a-number/blob/master/gameOver.jpeg" width="350px />
+  <img src="https://github.com/juliop3p/guessANumber/blob/master/gameOver.jpeg" width="350px" />
 </p>
 
