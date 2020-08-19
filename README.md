@@ -4,11 +4,18 @@
 
 ### tutorial: https://www.youtube.com/watch?v=qSRrxpdMpVc&t=
 
-### New Game Screen
-![App](https://github.com/juliop3p/guess-a-number/blob/master/newGame.jpeg)
+# New Game Screen
+<p align="center">
+  <img src="https://github.com/juliop3p/guess-a-number/blob/master/newGame.jpeg" width="350px" />
+</p>
 
-### Opponent Turn Screen
-![App](https://github.com/juliop3p/guess-a-number/blob/master/oponentsChoice.jpeg)
+# Opponent Turn Screen
+<p align="center">
+  <img src="https://github.com/juliop3p/guess-a-number/blob/master/oponentsChoice.jpeg" width="350px" />
+</p>
 
 ### Game Over Screen
-![App](https://github.com/juliop3p/guess-a-number/blob/master/gameOver.jpeg)
+<p align="center">
+  <img src="https://github.com/juliop3p/guess-a-number/blob/master/gameOver.jpeg" width="350px />
+</p>
+
